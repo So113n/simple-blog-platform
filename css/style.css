@@ -11,6 +11,6 @@ h1 {
 }
 
 .header {
-    text-align: left;
+    text-align: left, center;
     font-size: 2em;
 }
